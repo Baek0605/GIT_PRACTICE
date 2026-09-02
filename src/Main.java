@@ -12,7 +12,7 @@ public class Main {
         };
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("=== 타자 연습 프로그램 ===");
+        System.out.println("=== 브랜치 버전 ===");
         System.out.println();
 
         double totalAccuracy = 0;
