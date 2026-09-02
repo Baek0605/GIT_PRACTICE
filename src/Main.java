@@ -1,5 +1,6 @@
 import java.util.Scanner;
 //Git pull 연습
+//new branch 연습
 public class Main {
     public static void main(String[] args) {
         // 연습할 가사 여러 줄 - 원하는 가사로 순서대로 넣으세요
