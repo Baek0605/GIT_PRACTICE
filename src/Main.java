@@ -1,12 +1,13 @@
 import java.util.Scanner;
 //Git pull 연습
 //new branch 연습
+//merge 연습
 public class Main {
     public static void main(String[] args) {
         // 연습할 가사 여러 줄 - 원하는 가사로 순서대로 넣으세요
         String[] lyrics = {
                 "안녕하세요",
-                "저는 백수현입니다.",
+                "저는 백수수입니다..",
                 "당신의 이름은 무엇인가요"
         };
 
