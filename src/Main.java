@@ -12,7 +12,7 @@ public class Main {
         };
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("=== 마스터 버전 ===");
+        System.out.println("=== 마스터+브랜치 버전 ===");
         System.out.println();
 
         double totalAccuracy = 0;
